@@ -2,6 +2,8 @@
 Final project of Software Testing course at Shahid Beheshti University. This is the implementation of 3 scenarios that are testing sites using Selenium.
 
 We considered the following three scenarios for this project:
+
+
 First scenario:
 Enter the Quora website, click the view courses button, and enter the courses section. Now we scroll the page.
 
